@@ -3,15 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -------------------------------
 My expertise lies in problem-solving and algorithm development, with a strong proficiency in Python and Java. 
 
-#✉️ You may mail me [dhruvdd8888@gmail.com](mailto:dhruvdd8888@gmail.com)
+✉️ You may mail me [dhruvdd8888@gmail.com](mailto:dhruvdd8888@gmail.com)
   
-*⚡ Full-time leetcoder
+⚡ Full-time leetcoder
 
-*🌱 Student pursuing Bachelors
+🌱 Student pursuing Bachelors
 
-*🔥Good at DSA and Algorithm 
+🔥Good at DSA and Algorithm 
 
-*Works in Java and Python
+Works in Java ♨️ and Python 🐍
 
 
 ### Total visitors
