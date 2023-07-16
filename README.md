@@ -13,6 +13,7 @@ My expertise lies in problem-solving and algorithm development, with a strong pr
 
 Works in Java ♨️ and Python 🐍
 
+[![dhruvdd8888's GitHub | Languages Over Time](https://stats.quine.sh/dhruvdd8888/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dhruvdd8888)
 
 ### Total visitors
 
